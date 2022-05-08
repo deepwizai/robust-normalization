@@ -1,2 +1,2 @@
-# robust-normalization
-Add all your code in this repository and update the readme file correctly so that we can understand and track your progress.
+# BERT-based Ranking for Biomedical Entity Normalization
+Unofficial implementation of the paper **BERT-based Ranking for Biomedical Entity Normalization**
