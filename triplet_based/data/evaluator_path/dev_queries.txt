@@ -1,0 +1,1 @@
+{"q_0": "decompression of heart", "q_1": "Closed fracture of left hand", "q_2": "non-adherent dressing", "q_3": "giant comedo", "q_4": "devils river minnow", "q_5": "entire adipose tissue of abdomen"}
